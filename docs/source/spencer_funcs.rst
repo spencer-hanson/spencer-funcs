@@ -1,6 +1,17 @@
 spencer\_funcs package
 ======================
 
+Submodules
+----------
+
+spencer\_funcs.autodiscovery module
+-----------------------------------
+
+.. automodule:: spencer_funcs.autodiscovery
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
