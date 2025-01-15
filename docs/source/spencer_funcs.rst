@@ -12,6 +12,14 @@ spencer\_funcs.autodiscovery module
    :undoc-members:
    :show-inheritance:
 
+spencer\_funcs.lazy module
+--------------------------
+
+.. automodule:: spencer_funcs.lazy
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
